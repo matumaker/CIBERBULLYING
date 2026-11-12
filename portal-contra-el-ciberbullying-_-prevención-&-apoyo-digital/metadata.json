@@ -1,0 +1,6 @@
+{
+  "name": "Portal Contra el Ciberbullying | Prevención & Apoyo Digital",
+  "description": "Sitio web completo y educativo sobre ciberbullying: prevención, test interactivo de detección, protocolos de actuación, recursos de ayuda y plantilla para Google Sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
